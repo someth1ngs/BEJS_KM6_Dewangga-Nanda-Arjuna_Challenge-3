@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=Tugas+Challenge+3;ERD+Bank+Management+System;Binar+Academy)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&vCenter=true&random=false&width=465&lines=Tugas+Challenge+3+%F0%9F%93%91;ERD+Bank+Management+System+;Binar+Academy+%F0%9F%8F%AB)](https://git.io/typing-svg)
 Welcome to the Bank Management System database project, yang dikembangkan sebagai bagian dari tugas Binar Academy Bab 3.
 
 ## Objektif
