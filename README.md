@@ -1,20 +1,10 @@
-# Tugas Challenge 3 ERD Bank Management System
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=Tugas+Challenge+3;ERD+Bank+Management+System;Binar+Academy)](https://git.io/typing-svg)
+Welcome to the Bank Management System database project, yang dikembangkan sebagai bagian dari tugas Binar Academy Bab 3.
 
-This is a simple bank management system developed as a part of the Binar Academy Chapter 3 project.
+## Objektif
+Tujuan utamanya adalah merancang dan menerapkan skema database yang kuat untuk menyimpan dan mengelola data nasabah, detail akun, dan catatan transaksi secara efisien.
 
-## Overview
-
-The project aims to create a database system to manage customer information, accounts, and transactions for a bank.
-
-## Skills Metric
-- Database
-- DBMS (Database Management System)
-- Query Language
-- Database Indexing and Query Optimization
-- RDBMS
-
-## Entities
-
-- Nasabah (Customer)
-- Akun (Account)
-- Transaksi (Transaction)
+## Entitas
+- Nasabah
+- Akun
+- Transaksi
