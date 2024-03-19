@@ -4,6 +4,11 @@ Welcome to the Bank Management System database project, yang dikembangkan sebaga
 ## Objektif
 Tujuan utamanya adalah merancang dan menerapkan skema database yang kuat untuk menyimpan dan mengelola data nasabah, detail akun, dan catatan transaksi secara efisien.
 
+## Kriteria
+1. Mampu merancang dan membuat ERD
+2. Membuat Database & tabel menggunakan DDL
+3. Melakukan operasi CRUD dengan DML
+
 ## Entitas
 - Nasabah
 - Akun
